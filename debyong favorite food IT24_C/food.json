@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Jollibee - Manolo Fortich",
+    "description": "Home of the famous Chickenjoy and Jolly Spaghetti — a local favorite for family meals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jollibee_restaurants_%28Rizal%2C_Nueva_Ecija%29_02.jpg/1024px-Jollibee_restaurants_%28Rizal%2C_Nueva_Ecija%29_02.jpg",
+    "lat": 8.367355,
+    "lng": 124.865308
+  },
+  {
+    "name": "7-Eleven - Manolo Fortich",
+    "description": "Perfect for quick snacks, cold drinks, and late-night cravings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/7-Eleven_logo_2021.svg/800px-7-Eleven_logo_2021.svg.png",
+    "lat": 8.367501,
+    "lng": 124.865085
+  },
+  {
+    "name": "Minute Burger - Manolo Fortich",
+    "description": "Delicious and affordable burgers — perfect for a quick and tasty bite!",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RedDot_Burger.jpg",
+    "lat": 8.367474,
+    "lng": 124.865232
+  }
+]
+
