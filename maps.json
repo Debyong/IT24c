@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Pizzakid Manolo Fortich",
+        "lat": 8.35760889109076,
+        "lng": 124.86529039547696,
+        "img": "Pizza.jpg",
+        "description": "I love their Pizza."
+    },
+    {
+        "name": "Chicken Rotizado",
+        "lat": 8.365165053261345,
+        "lng": 124.86527117661558,
+        "img": "FriedChicken.webp",
+        "description": "Lami na barato pa!"
+    },
+    {
+        "name": "Minute Burger",
+        "lat": 8.367990973655182,
+        "lng": 124.86466775488081,
+        "img": "Minute_Burger.webp",
+        "description": "My fave is their Minute Burger."
+    }
+]
